@@ -1,0 +1,14 @@
+//
+// Created by Administrator on 6/21/2021.
+//
+
+#ifndef C_CHAPTER_2_DATEAMPCLASSREFERANCE_H
+#define C_CHAPTER_2_DATEAMPCLASSREFERANCE_H
+
+
+class DATEampCLASSreferance {
+
+};
+
+
+#endif //C_CHAPTER_2_DATEAMPCLASSREFERANCE_H
