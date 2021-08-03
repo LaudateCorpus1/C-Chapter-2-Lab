@@ -1,13 +1,12 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //Name: Santiago de Jesus Villalobos-Gonzalez
 //Program Description: Lab #7
 //Course: CS 102 - Introduction to Programming C++
 //Due Date: August 1st, 2021 by Midnight
+//https://jesushilarioh.com/chapter-7-19-2d-array-operations-tony-gaddis-starting-out-with-c-plus-plus/
 
-https://jesushilarioh.com/chapter-7-19-2d-array-operations-tony-gaddis-starting-out-with-c-plus-plus/
-
-//From ‘Problem Set 3 Question 12 solution by Dillon Morse’, created in 2013 on GitHub Gist, as file ‘12.cpp’ I have linked their modified work, as the foundation for this midterm above. 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//From The “Chapter 7 – #19: 2D Array Operations – Tony Gaddis – Starting Out With C++” programming challenge comes from Tony Gaddis’ book, “Starting Out with C++ from Control Structures to Objects (8th Edition)”, solution created by jesushilarioh
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #include <iostream>
 using namespace std;
 
